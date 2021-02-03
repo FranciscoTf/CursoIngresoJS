@@ -1,3 +1,12 @@
+/*Enunciado:
+Debemos lograr tomar Los numeros por ID.value ,
+transformarlos a enteros "parseInt()",realizar la operación correcta y
+mostrar el resulto por medio de "alert()"
+ej.: "la Resta es 750"
+
+Faig Francisco Thomas
+Ejercicio 07 E/S
+*/
 
 function sumar()
 {	
@@ -68,6 +77,6 @@ function dividir()
 
 	divd = num1 / num2;
 
-	alert("La multiplicacion es: " +divd);
+	alert("La divicion es: " +divd);
 }
 
