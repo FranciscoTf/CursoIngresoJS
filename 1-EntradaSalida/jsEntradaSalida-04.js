@@ -21,4 +21,3 @@ function mostrar()
 	txtIdNombre.value=nombreIngresado;
 	
 }
-

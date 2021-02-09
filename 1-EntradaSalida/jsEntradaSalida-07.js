@@ -77,6 +77,9 @@ function dividir()
 
 	divd = num1 / num2;
 
-	alert("La divicion es: " +divd);
+	divd = divd.toFixed(2);
+	//To fix determina la cantidad de numeros despues de la coma.
+
+	alert("La division es: " +divd);
 }
 

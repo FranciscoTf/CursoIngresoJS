@@ -18,6 +18,8 @@ function SacarResto()
 	dividendo = parseInt(dividendo);
 	divisor = parseInt(divisor);
 
+
+	// % en modulo, muestra el resto.
 	resto = dividendo % divisor;
 
 	alert("El resto es: " +resto);
