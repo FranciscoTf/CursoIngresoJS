@@ -42,3 +42,5 @@ function mostrar()
 	alert("Usted se llama "+nombreDelAlumno+" "+apellidoDelAlumno+" y tiene " +edadDelAlumno+" años.");
 }
 */
+
+//Update E/S

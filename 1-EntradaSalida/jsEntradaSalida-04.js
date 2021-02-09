@@ -21,3 +21,5 @@ function mostrar()
 	txtIdNombre.value=nombreIngresado;
 	
 }
+
+//Update E/S

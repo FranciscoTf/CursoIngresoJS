@@ -24,3 +24,5 @@ function SacarResto()
 
 	alert("El resto es: " +resto);
 }
+
+//Update E/S

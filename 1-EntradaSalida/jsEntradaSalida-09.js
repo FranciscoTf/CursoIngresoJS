@@ -26,7 +26,7 @@ function mostrarAumento()
 	document.getElementById("txtIdResultado").value = resultado;
 	
 	
-
-
-	
 }
+
+//Update E/S
+

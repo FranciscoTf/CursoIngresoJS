@@ -38,3 +38,5 @@ function mostrar()
 	alert("Su nombre es "+nombreDelAlumno+" y tiene " +edadDelAlumno+" años.");
 }
 */
+
+//Update E/S
